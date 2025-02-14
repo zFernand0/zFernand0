@@ -11,5 +11,5 @@
 *   [Instagram](https://www.instagram.com/rijo0206)
 *   [X/Twitter](https://twitter.com/Rijo0206)
 
-Feel free to explore my repositories and contribute if you find something interesting! 
+Feel free to explore my repositories and contribute if you find something interesting!<br/>
 I'm always open to collaboration and learning from others.
